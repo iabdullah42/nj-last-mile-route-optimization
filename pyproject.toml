@@ -1,0 +1,14 @@
+[project]
+name = "nj-last-mile-route-optimization"
+version = "1.0.0"
+description = "Capacitated vehicle routing for a Central NJ delivery station: heuristics vs an exact MILP."
+authors = [{ name = "Abdullah Ibrahim" }]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "scipy>=1.11", "pandas>=2.0", "matplotlib>=3.7"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

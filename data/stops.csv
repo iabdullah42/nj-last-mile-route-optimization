@@ -1,0 +1,32 @@
+stop_id,town,lat,lon,packages
+DEPOT,Edison (station),40.5187,-74.4121,0
+S01,Woodbridge,40.5472,-74.27484,19
+S02,South Plainfield,40.55979,-74.42843,11
+S03,Sayreville,40.45883,-74.37209,18
+S04,South Plainfield,40.58708,-74.41064,21
+S05,Highland Park,40.48731,-74.41951,6
+S06,New Brunswick,40.49498,-74.45245,9
+S07,Sayreville,40.47123,-74.36301,8
+S08,Piscataway,40.55158,-74.45408,13
+S09,Highland Park,40.50021,-74.39646,8
+S10,Woodbridge,40.55248,-74.29518,15
+S11,South Plainfield,40.57816,-74.42242,6
+S12,Perth Amboy,40.51331,-74.25574,15
+S13,South Plainfield,40.58162,-74.40998,12
+S14,South Plainfield,40.58801,-74.40859,16
+S15,South Plainfield,40.58219,-74.40329,4
+S16,Carteret,40.5741,-74.23431,7
+S17,Carteret,40.59225,-74.23946,19
+S18,Woodbridge,40.54077,-74.28895,12
+S19,Highland Park,40.50301,-74.41399,8
+S20,Highland Park,40.49128,-74.41315,9
+S21,Old Bridge,40.40347,-74.37735,14
+S22,Rahway,40.60962,-74.26862,8
+S23,Highland Park,40.50216,-74.42832,14
+S24,South Plainfield,40.57268,-74.41622,8
+S25,South Plainfield,40.58417,-74.4176,11
+S26,Sayreville,40.46381,-74.3552,16
+S27,Woodbridge,40.55337,-74.28564,4
+S28,Piscataway,40.54063,-74.4782,6
+S29,Piscataway,40.54605,-74.46592,24
+S30,Rahway,40.60464,-74.26801,6

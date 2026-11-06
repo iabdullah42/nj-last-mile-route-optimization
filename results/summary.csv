@@ -1,0 +1,7 @@
+scenario,plan,vans,miles,driver_hours,longest_route_hours,avg_utilization_pct,daily_cost_usd,co2_kg,solve_seconds
+Normal day,Baseline (nearest neighbor),3,119.4,8.22,3.29,77.1,313.73,113.4,0.0
+Normal day,Heuristic (Clarke-Wright + local search),3,84.2,6.82,2.54,77.1,249.89,80.0,0.0
+Normal day,Optimized (exact MILP),3,83.8,6.8,2.53,77.1,249.07,79.6,9.05
+Peak season (+30% volume),Baseline (nearest neighbor),4,137.2,9.37,2.85,75.2,358.39,130.3,0.0
+Peak season (+30% volume),Heuristic (Clarke-Wright + local search),4,89.0,7.44,2.68,75.2,270.63,84.6,0.0
+Peak season (+30% volume),Optimized (exact MILP),4,88.8,7.43,2.67,75.2,270.2,84.4,207.07
